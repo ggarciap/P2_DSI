@@ -70,7 +70,7 @@ A Lasso model was used for the prediction of `SalesPrice` using numerical featur
 
 One of the main reasons for using lasso was beucase we can perfrom feature selection through the method of apply a regularization process where it penalizes the coefficients of the regression variables shrinking some of them to zero and in this way leaving the features that contirbute the most to the model for predicting `SalePrice`
 
-### Comparison of score
+### Comparison of scores
 
 ![alternativetext](images/rmse_scores.png)
 
